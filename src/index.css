@@ -1,0 +1,17 @@
+.contenedor {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.errorShow {
+  display: block;
+  color: black;
+  background-color: salmon;
+  border-radius: 5px;
+  text-align: center;
+  border: 1px solid red;
+}
+
+.errorNotShow {
+  display: none;
+}
